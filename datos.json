@@ -1,0 +1,123 @@
+[
+  {
+      "nombre": "Arroz Blanco",
+      "precio": 15.99,
+      "cantidad_en_stock": 100,
+      "fecha_de_vencimiento": "2/11/24"
+  },
+  {
+      "nombre": "Harina de trigo",
+      "precio": 17.99,
+      "cantidad_en_stock": 3,
+      "fecha_de_vencimiento": "3/11/24"
+  },
+  {
+      "nombre": "Azúcar blanca",
+      "precio": 95.99,
+      "cantidad_en_stock": 5,
+      "fecha_de_vencimiento": "9/11/24"
+  },
+  {
+      "nombre": "Aceite de oliva",
+      "precio": 45.99,
+      "cantidad_en_stock": 7,
+      "fecha_de_vencimiento": "6/11/24"
+  },
+  {
+      "nombre": "Sal de mesa",
+      "precio": 35.99,
+      "cantidad_en_stock": 9,
+      "fecha_de_vencimiento": "4/11/24"
+  },
+  {
+      "nombre": "Leche entera",
+      "precio": 55.99,
+      "cantidad_en_stock": 2,
+      "fecha_de_vencimiento": "7/11/24"
+  },
+  {
+      "nombre": "Mantequilla",
+      "precio": 85.99,
+      "cantidad_en_stock": 9,
+      "fecha_de_vencimiento": "4/11/24"
+  },
+  {
+      "nombre": "Cereal de avena",
+      "precio": 45.99,
+      "cantidad_en_stock": 1,
+      "fecha_de_vencimiento": "30/11/24"
+  },
+  {
+      "nombre": "Pasta espageti",
+      "precio": 65.99,
+      "cantidad_en_stock": 6,
+      "fecha_de_vencimiento": "7/11/24"
+  },
+  {
+      "nombre": "Tomate enlatados",
+      "precio": 35.99,
+      "cantidad_en_stock": 3,
+      "fecha_de_vencimiento": "6/11/24"
+  },
+  {
+      "nombre": "Frijoles negros",
+      "precio": 235.99,
+      "cantidad_en_stock": 7,
+      "fecha_de_vencimiento": "1/11/24"
+  },
+  {
+      "nombre": "Salsa de tomate",
+      "precio": 75.99,
+      "cantidad_en_stock": 3,
+      "fecha_de_vencimiento": "7/11/24"
+  },
+  {
+      "nombre": "Galletas oreo",
+      "precio": 85.99,
+      "cantidad_en_stock": 14,
+      "fecha_de_vencimiento": "3/11/24"
+  },
+  {
+      "nombre": "Queso chedar rallado",
+      "precio": 25.99,
+      "cantidad_en_stock": 10,
+      "fecha_de_vencimiento": "9/11/24"
+  },
+  {
+      "nombre": "Pollo congelado",
+      "precio": 905.99,
+      "cantidad_en_stock": 56,
+      "fecha_de_vencimiento": "27/11/24"
+  },
+  {
+      "nombre": "Carne molida de res",
+      "precio": 455.99,
+      "cantidad_en_stock": 8,
+      "fecha_de_vencimiento": "28/11/24"
+  },
+  {
+      "nombre": "Jugo de naranja",
+      "precio": 35.99,
+      "cantidad_en_stock": 4,
+      "fecha_de_vencimiento": "22/11/24"
+  },
+  {
+      "nombre": "Manzanas",
+      "precio": 95.99,
+      "cantidad_en_stock": 9,
+      "fecha_de_vencimiento": "5/11/24"
+  },
+  {
+      "nombre": "Plátanos",
+      "precio": 67.99,
+      "cantidad_en_stock": 60,
+      "fecha_de_vencimiento": "2/11/24"
+  },
+  {
+      "nombre": "Papitas fritas",
+      "precio": 38.99,
+      "cantidad_en_stock": 45,
+      "fecha_de_vencimiento": "3/11/24"
+  }
+]
+  
